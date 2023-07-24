@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "start": "^5.1.0",
+    "start-dev": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
